@@ -18,7 +18,7 @@
 
     {% assign repos_list = site.github.public_repositories | sort:"url" %}
     {% for repo in repos_list %}
-      {% if repo.homepage contains 'https://kenhansen01.github.io/' and repo.name != site.github.name %}
+      {% if repo.homepage contains 'https://kenhansen01.github.io/' and repo.name != site.github.repository_name %}
         <a class="sidebar-nav-item{% if page.url == repo.homepage %} active{% endif %}" href="{{ repo.homepage }}">{{ repo.name }}</a>
       {% endif %}
     {% endfor %}
