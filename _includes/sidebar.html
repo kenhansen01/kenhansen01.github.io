@@ -1,4 +1,4 @@
-a<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
 
@@ -18,7 +18,7 @@ a<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
 
     {% assign repos_list = site.github.public_repositories | sort:"url" %}
     {% for repo in repos_list %}
-      {% if repo.homepage contains 'https://kenhansen01.github.io/' %}
+      {% if repo.homepage contains 'https://kenhansen01.github.io/' and repo.homepage != page.url %}
         <a class="sidebar-nav-item{% if page.url == repo.homepage %} active{% endif %}" href="{{ repo.homepage }}">{{ repo.name }}</a>
       {% endif %}
     {% endfor %}
