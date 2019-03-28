@@ -1,4 +1,4 @@
-remote_theme: kenhansen01/jekyll-theme-frosting
+remote_theme: "kenhansen01/jekyll-theme-frosting"
 
 show_downloads: false
 # Welcome to Jekyll!
