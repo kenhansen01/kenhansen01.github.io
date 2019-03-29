@@ -26,7 +26,7 @@ Nice that you decided to stop by. I'm a father of a wonderful child, spouse to a
 ## About the site
 So, I have learned a lot from the developers out there that put their hard work up for all to see and use. I wouldn't be where I am without their generous help. This is all about paying it forward.
 
-A lot of what you will find here is SharePoint centric. Sometimes even very specific to whatever job I had when I made the repo. But there are other fun things too. I will add more when I have time.
+A lot of what you will find here is SharePoint centric. Sometimes even very specific to whatever job I had when I made the repo. But there are other fun things too. I will add more when I have time. 
 
 ## Demo Pages
 
