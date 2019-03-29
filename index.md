@@ -1,6 +1,7 @@
 ---
-layout: bakery
+layout: buttercream
 title: Things I do...
+author_profile: true
 ---
 
 Let's see what I come up with.
