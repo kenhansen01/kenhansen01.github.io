@@ -13,6 +13,7 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2019-03-29T07:25:03-06:00
+toc_label: "Options"
 toc: true
 ---
 
