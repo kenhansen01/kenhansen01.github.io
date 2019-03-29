@@ -17,7 +17,9 @@ toc_label: "Options"
 toc: true
 ---
 
-Oh hi! Nice that you decided to stop by. I'm a father of a wonderful child, spouse to an amazing woman, planet loving tree-hugger, and a fighter for justice. My job is that of a SharePoint Architect. :smile:.
+Oh hi!
+
+Nice that you decided to stop by. I'm a father of a wonderful child, spouse to an amazing woman, planet loving tree-hugger, and a fighter for justice. My job is that of a SharePoint Architect. :smile:.
 
 <!-- {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %} -->
 
