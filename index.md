@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bakery
 title: Things I do...
 ---
 
