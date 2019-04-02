@@ -1,5 +1,5 @@
 ---
-title: "AdminPowershell: Powershell tools I use"
+title: "Jekyll Theme - Frosting: A tasty theme."
 header:
   image: assets/images/frosting.png
   caption: "A tasty theme"
