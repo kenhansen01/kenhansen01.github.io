@@ -1,7 +1,7 @@
 ---
 title: "Jekyll Theme - Frosting: A tasty theme."
 header:
-  image: assets/images/frosting.png
+  image: assets/images/frosting-banner.png
   caption: "A tasty theme"
 tags:
   - table of contents
