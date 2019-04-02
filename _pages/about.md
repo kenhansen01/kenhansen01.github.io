@@ -42,10 +42,6 @@ A lot of what you will find here is SharePoint centric. Sometimes even very spec
 
 For even more demo pages check the [posts mixer][year-mixer].
 
-<!-- [header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %} -->
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-mixer]: {{ "/categories/" | relative_url }}
 [tags-mixer]: {{ "/tags/" | relative_url }}
