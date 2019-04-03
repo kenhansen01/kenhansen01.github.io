@@ -71,4 +71,4 @@ For even more demo pages check the [posts mixer][year-mixer].
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Frosting is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
