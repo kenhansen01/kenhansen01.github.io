@@ -5,6 +5,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags:
   - table of contents
+  - PowerShell
 toc: true
 toc_label: "Neat Shells"
 toc_icon: "heart"
