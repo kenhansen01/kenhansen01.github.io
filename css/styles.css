@@ -3,6 +3,8 @@ body {
 }
 header {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color:chartreuse;
+    background-color: chocolate;
     border-color: red;
     border-width: 3px;
     border-style: ridge;
