@@ -24,15 +24,15 @@ const prevButton = document.getElementById('prev-button');
 
 let currentIndex = 0;
 
-function changeMyImage(currentIndex, direction){
-    if (direction === "next") {
+function changeMyImage(e){
+    if (e.target.id === nextButton.id) {
         if (currentIndex < myImages.length -1) {
             currentIndex += 1
         } else {
             currentIndex = 0
         } 
     }   
-    if (direction === "previous") {
+    if (e.target.id === prevButton.id) {
         if (currentIndex > 0) {
             currentIndex -= 1
         } else {
@@ -44,5 +44,5 @@ function changeMyImage(currentIndex, direction){
     showcaseImageDescription.innerText = myImages[currentIndex].description
 }
 
-nextButton.onclick = changeMyImage(currentIndex, "next");
-prevButton.onauxclick = changeMyImage(currentIndex, "prev")
+nextButton.onclick = changeMyImage;
+prevButton.onclick = changeMyImage;
