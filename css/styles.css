@@ -105,3 +105,8 @@ footer {
     border-style: ridge;
     padding: 24px;
 }
+
+footer a,
+footer a:hover {
+    color: var(--theme-secondary);
+}
