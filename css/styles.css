@@ -22,7 +22,7 @@ a:hover {
 }
 
 header {
-    flex: 2;
+    flex: 1;
     font-family: var(--theme-alternate-font);
     color: white;
     background-color: var(--theme-primary);
