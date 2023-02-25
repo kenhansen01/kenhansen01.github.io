@@ -1,5 +1,6 @@
 :root {
-    --theme-primary: #134786;
+    /* --theme-primary: #134786; */
+    --theme-primary: chartreuse;
     --theme-secondary: #8ff0a4;
     --theme-alert: #ff5100;
     --theme-normal-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
